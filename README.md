@@ -1,7 +1,7 @@
 # 🌌 Bal Govind Portfolio Website
 
 <p align="center">
-  <img src="images/profile.jpg" width="120" style="border-radius:50%" />
+  <img src="images/Profile.jpg" width="120" style="border-radius:50%" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Portfolio-Website/
 │── form.html
 │── style.css
 │── images/
-│   ├── profile.jpg
+│   ├── Profile.jpg
 │   ├── Matrix.jpg
 │   └── Triggered.jpeg
 ```
