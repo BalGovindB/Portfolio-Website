@@ -1,7 +1,7 @@
 # 🌌 Bal Govind Portfolio Website
 
 <p align="center">
-  <img src="images/Profile.jpg" width="120" style="border-radius:50%" />
+  <img src="images/Bal-Blazer-Photo.jpg" width="120" style="border-radius:50%" />
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Through this project, I learned:
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/Matrix.jpg" width="400">
+  <img src="images/Preview.jpg" width="400">
 </p>
 
 ---
