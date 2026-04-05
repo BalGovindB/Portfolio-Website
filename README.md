@@ -1,58 +1,115 @@
-🚀 Bal Govind Portfolio Website
+# 🌌 Bal Govind Portfolio Website
 
-A modern, responsive portfolio website built using HTML & CSS to showcase my skills, projects, and creativity.
+<p align="center">
+  <img src="images/profile.jpg" width="120" style="border-radius:50%" />
+</p>
 
-🌐 Live Demo
+<p align="center">
+  <b>🚀 Modern • Responsive • Minimal • Clean UI</b>
+</p>
 
-🔗 https://balgovindb.github.io/Portfolio-Website/
+---
 
-📌 Features
+## 🌐 Live Website
 
-✨ Clean and modern dark UI
-✨ Smooth navigation between sections
-✨ Responsive design for all devices
-✨ Project showcase with external links
-✨ Contact form with input fields and validation
-✨ Glassmorphism + neon glow styling
-✨ Hover effects and subtle animations
+👉 **https://balgovindb.github.io/Portfolio-Website/**
 
-🧩 Sections Included
-🏠 Home
-💼 Projects
-🧠 Skills
-👤 About Me
-📬 Contact
-🛠️ Tech Stack
-HTML5
-CSS3
-📂 Project Structure
+---
 
+## 🧠 About This Project
+
+This is a **modern portfolio website** built using **HTML & CSS**, designed to showcase my skills, projects, and UI creativity.
+
+It focuses on:
+
+* Clean layout
+* Smooth user experience
+* Modern design aesthetics
+* Responsive behavior across devices
+
+---
+
+## ✨ Features
+
+* 🌙 Dark-themed modern UI
+* 🎨 Neon glow + glassmorphism styling
+* ⚡ Smooth scrolling navigation
+* 🧩 Project showcase cards
+* 📱 Fully responsive design
+* 📝 Functional contact form
+* 🎯 Structured and clean layout
+
+---
+
+## 🧩 Sections
+
+| Section     | Description                 |
+| ----------- | --------------------------- |
+| 🏠 Home     | Introduction + Hero section |
+| 💼 Projects | Project showcase with links |
+| 🧠 Skills   | Technical skills table      |
+| 👤 About    | Short bio                   |
+| 📬 Contact  | Form + social links         |
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3">
+</p>
+
+---
+
+## 📂 Folder Structure
+
+```
 Portfolio-Website/
 │── index.html
 │── form.html
 │── style.css
 │── images/
-│ ├── profile.jpg
-│ ├── project1.jpg
-│ └── project2.jpg
+│   ├── profile.jpg
+│   ├── Matrix.jpg
+│   └── Triggered.jpeg
+```
 
-🎯 Purpose
+---
 
-This project was created as part of my UID (User Interface Design) coursework to demonstrate:
+## 🎯 Learning Outcomes
 
-Understanding of HTML structure
-Styling using CSS
-Responsive design principles
-UI/UX enhancements using modern techniques
-📸 Screenshots
+Through this project, I learned:
 
-(You can add screenshots here later if needed)
+* Structuring web pages using HTML
+* Styling with CSS (layouts, colors, effects)
+* Using Flexbox for layout design
+* Creating responsive designs using media queries
+* Implementing modern UI techniques
 
-📬 Contact
+---
 
-📧 Email: balgovindb2006@gmail.com
-🔗 GitHub: https://github.com/BalGovindB
+## 📸 Preview
 
-⭐ Acknowledgement
+<p align="center">
+  <img src="images/Matrix.jpg" width="400">
+</p>
 
-Built with passion and continuous learning 🚀
+---
+
+## 📬 Contact
+
+📧 **Email:** [balgovindb2006@gmail.com](mailto:balgovindb2006@gmail.com)
+🔗 **GitHub:** https://github.com/BalGovindB
+
+---
+
+## ⭐ Final Note
+
+> This project was built as part of my **UID coursework** and reflects my understanding of modern web design principles.
+
+---
+
+<p align="center">
+  💡 Always learning. Always building.
+</p>
