@@ -32,7 +32,6 @@ It focuses on:
 ## ✨ Features
 
 * 🌙 Dark-themed modern UI
-* 🎨 Neon glow + glassmorphism styling
 * ⚡ Smooth scrolling navigation
 * 🧩 Project showcase cards
 * 📱 Fully responsive design
