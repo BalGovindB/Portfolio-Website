@@ -83,7 +83,6 @@ Through this project, I learned:
 * Structuring web pages using HTML
 * Styling with CSS (layouts, colors, effects)
 * Using Flexbox for layout design
-* Creating responsive designs using media queries
 * Implementing modern UI techniques
 
 ---
